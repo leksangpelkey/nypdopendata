@@ -17,7 +17,7 @@ Which gender commits the most offenses?
 
 Which age group commits the highest offenses?
 
-To answer these question i have walk through many different pandas, matplotlib and seaborn methods. They include:
+To answer these question i have walk through calling different libraries like pandas, matplotlib and seaborn. They include:
 
 adding column
 
